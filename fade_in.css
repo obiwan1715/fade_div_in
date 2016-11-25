@@ -1,0 +1,12 @@
+.first {
+  font-size: 36px;
+  color: red;
+  font-family: Arial;  
+}
+
+.second {
+  font-size: 36px;
+  color: red;
+  font-family: Arial;
+  display: none;
+ }
