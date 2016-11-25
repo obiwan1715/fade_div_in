@@ -1,5 +1,6 @@
 $(document).ready(function() {
-	$('p').click(function() {
-	$('.second').fadeIn('slow');
+	$('.first').click(function() {
+	$('.second').fadeTo(600,1);
+	$('.first').fadeTo(600,0);
 	});
 });
